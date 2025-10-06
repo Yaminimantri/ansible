@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars_prompr:
-  - name:
+  - name: username
     prompt: What is your usename?
     private: false
   tasks:
