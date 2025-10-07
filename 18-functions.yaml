@@ -4,6 +4,7 @@
   vars:
     technologies: DevOps, Linux, Shell, Ansible # string
     name: "Yamini M"
+    gmail: Mantri.Yamini2018@gmail.com
     tags:
       Application: payment
       Environment: dev
